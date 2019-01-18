@@ -1,0 +1,18 @@
+/* Specificity: Most specific rule wins, Lower wins also */
+
+h1 { 
+    color: red;
+    font-size: 80px;
+}
+
+p{
+    color: purple;
+}
+
+#first {
+    color: green;
+}
+
+img {
+    width:1000px;
+}
